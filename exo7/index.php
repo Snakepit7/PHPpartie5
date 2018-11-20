@@ -2,7 +2,7 @@
 <html lang="fr" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Exo5</title>
+    <title>Exo7</title>
   </head>
   <body>
       <?php
@@ -14,6 +14,10 @@
                             80 => 'Somme',
         );
        
+        $departements [51] = 'Reims';
+        
+        echo $departements [51];
+        
       ?>
   </body>
 </html>
